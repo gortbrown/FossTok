@@ -1,10 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "4wrAeUw7Mrh7RMVLmnDqdkbS65CrNkRzADet8PZwVmKy0MTYlHxQzUPLDW1LUZPKRrbIJQnPQSeMjjfOA+HHnA==",
+  "dgSpecHash": "SAfXQwdAGBwXEduEo3tisOlrd0HRvXFKAHB8EJWaQ14a+Frch6JqiMmHhUBM+Zbi6LER54J+uwFjyt6WzmygCQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\gjbro\\source\\repos\\FossTok\\FossTok\\FossTok.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\gjbro\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+    "C:\\Users\\gjbro\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\gjbro\\.nuget\\packages\\microsoft.android.runtime.31.android-x86\\32.0.476\\microsoft.android.runtime.31.android-x86.32.0.476.nupkg.sha512",
+    "C:\\Users\\gjbro\\.nuget\\packages\\microsoft.android.runtime.31.android-x64\\32.0.476\\microsoft.android.runtime.31.android-x64.32.0.476.nupkg.sha512",
+    "C:\\Users\\gjbro\\.nuget\\packages\\microsoft.android.runtime.31.android-arm64\\32.0.476\\microsoft.android.runtime.31.android-arm64.32.0.476.nupkg.sha512",
+    "C:\\Users\\gjbro\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-arm\\6.0.13\\microsoft.aspnetcore.app.runtime.linux-arm.6.0.13.nupkg.sha512",
+    "C:\\Users\\gjbro\\.nuget\\packages\\microsoft.android.ref.31\\32.0.476\\microsoft.android.ref.31.32.0.476.nupkg.sha512",
+    "C:\\Users\\gjbro\\.nuget\\packages\\microsoft.android.runtime.31.android-arm\\32.0.476\\microsoft.android.runtime.31.android-arm.32.0.476.nupkg.sha512",
+    "C:\\Users\\gjbro\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-arm64\\6.0.13\\microsoft.aspnetcore.app.runtime.linux-arm64.6.0.13.nupkg.sha512",
+    "C:\\Users\\gjbro\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\6.0.13\\microsoft.aspnetcore.app.runtime.linux-x64.6.0.13.nupkg.sha512"
   ],
   "logs": []
 }
